@@ -1,0 +1,2 @@
+# PollRecognizer
+Automatic Poll Recognizer
